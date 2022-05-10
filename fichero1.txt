@@ -1,3 +1,7 @@
 soy fichero 1
 cambios1 nueva linea
+<<<<<<< HEAD
 cambios master
+=======
+cambios para rama1.
+>>>>>>> rama1
